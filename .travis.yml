@@ -1,5 +1,5 @@
-os:
-    - linux
-    - osx
+language: java
+script: mvn install
 
-language: java 
+jdk:
+  + oraclejdk8
