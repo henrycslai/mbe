@@ -11,7 +11,7 @@ public class MBE {
 	private final static Logger slf4jLogger = LoggerFactory.getLogger(MBE.class);
 
     public static void main(String[] args) {
-        slf4jLogger.info("Logging: MBE Start v3");
+        slf4jLogger.info("Logging: MBE Start v4");
         SpringApplication.run(MBE.class, args);
     }
 
